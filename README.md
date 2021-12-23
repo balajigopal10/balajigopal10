@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balajigopal10
-- 👀 I’m interested in DevOps & AWS Cloud
+- 👀 I’m interested in Java development
 - 🌱 I’m currently learning AWS & Kubernetes
-- 💞️ I’m looking to move to DevOps & Cloudworld
+- 💞️ I’m looking towards Developer roles
 - 📫 YOu can reach via email - balaji10in@gmail.com
 
 <!---
